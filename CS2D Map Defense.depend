@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1431244934 source:c:\documents and settings\administrator\desktop\c++ learnings\cs2d map defense\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	"IOAddons.h"
+	"MapSystem.h"
+
+1431187552 source:c:\documents and settings\administrator\desktop\c++ learnings\cs2d map defense\src\ioaddons.cpp
+	"IOAddons.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1431245212 c:\documents and settings\administrator\desktop\c++ learnings\cs2d map defense\include\ioaddons.h
+	<fstream>
+
+1431244722 source:c:\documents and settings\administrator\desktop\c++ learnings\cs2d map defense\src\mapsystem.cpp
+	"MapSystem.h"
+	"IOAddons.h"
+	<fstream>
+	<iostream>
+	<ctime>
+	<cstdio>
+	<windows.h>
+
+1431187552 c:\documents and settings\administrator\desktop\c++ learnings\cs2d map defense\include\mapsystem.h
+	<string>
+
+1431244934 source:c:\users\admin\desktop\mapdef\source\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	"IOAddons.h"
+	"MapSystem.h"
+
+1447946458 c:\users\admin\desktop\mapdef\source\include\ioaddons.h
+	<fstream>
+	<cstdint>
+
+1431187552 c:\users\admin\desktop\mapdef\source\include\mapsystem.h
+	<string>
+
+1447845499 source:c:\users\admin\desktop\mapdef\source\src\ioaddons.cpp
+	"IOAddons.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1447845643 source:c:\users\admin\desktop\mapdef\source\src\mapsystem.cpp
+	"MapSystem.h"
+	"IOAddons.h"
+	<fstream>
+	<iostream>
+	<ctime>
+	<cstdio>
+	<windows.h>
+
